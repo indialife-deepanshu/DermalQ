@@ -1,0 +1,41 @@
+
+
+
+=> Backend
+    |
+    |->config
+    |     |-constant.js
+    |     |-db.js
+    |
+    |->controllers
+    |     |-authController.js  
+    |
+    |->drizzle
+    |     |-schema.js
+    |
+    |->middlewares
+    |     |-verifyAuthMiddleware.js
+    |
+    |->routes
+    |     |-authRoutes.js
+    |
+    |->services
+    |     |-auth.services.js
+    |
+    |->validators
+    |     |-auth_validator.js
+    |
+    |
+    |-drizzle.config.js
+    |-server.js
+
+    
+
+
+
+
+
+
+
+    
+    
